@@ -1,0 +1,11 @@
+C:\Users\georg\OneDrive\Documents\uni work\year 1\semester 2\o-op\Assessment 2 o-op\Assessment 2 o-op\bin\Debug\netcoreapp3.1\Assessment 2 o-op.exe
+C:\Users\georg\OneDrive\Documents\uni work\year 1\semester 2\o-op\Assessment 2 o-op\Assessment 2 o-op\bin\Debug\netcoreapp3.1\Assessment 2 o-op.deps.json
+C:\Users\georg\OneDrive\Documents\uni work\year 1\semester 2\o-op\Assessment 2 o-op\Assessment 2 o-op\bin\Debug\netcoreapp3.1\Assessment 2 o-op.runtimeconfig.json
+C:\Users\georg\OneDrive\Documents\uni work\year 1\semester 2\o-op\Assessment 2 o-op\Assessment 2 o-op\bin\Debug\netcoreapp3.1\Assessment 2 o-op.runtimeconfig.dev.json
+C:\Users\georg\OneDrive\Documents\uni work\year 1\semester 2\o-op\Assessment 2 o-op\Assessment 2 o-op\bin\Debug\netcoreapp3.1\Assessment 2 o-op.dll
+C:\Users\georg\OneDrive\Documents\uni work\year 1\semester 2\o-op\Assessment 2 o-op\Assessment 2 o-op\bin\Debug\netcoreapp3.1\Assessment 2 o-op.pdb
+C:\Users\georg\OneDrive\Documents\uni work\year 1\semester 2\o-op\Assessment 2 o-op\Assessment 2 o-op\obj\Debug\netcoreapp3.1\Assessment 2 o-op.csprojAssemblyReference.cache
+C:\Users\georg\OneDrive\Documents\uni work\year 1\semester 2\o-op\Assessment 2 o-op\Assessment 2 o-op\obj\Debug\netcoreapp3.1\Assessment 2 o-op.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Documents\uni work\year 1\semester 2\o-op\Assessment 2 o-op\Assessment 2 o-op\obj\Debug\netcoreapp3.1\Assessment 2 o-op.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Documents\uni work\year 1\semester 2\o-op\Assessment 2 o-op\Assessment 2 o-op\obj\Debug\netcoreapp3.1\Assessment 2 o-op.dll
+C:\Users\georg\OneDrive\Documents\uni work\year 1\semester 2\o-op\Assessment 2 o-op\Assessment 2 o-op\obj\Debug\netcoreapp3.1\Assessment 2 o-op.pdb
